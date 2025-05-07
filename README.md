@@ -75,5 +75,6 @@ The project is seeded with realistic data for testing purposes:
 ## Scheme
 ![Scheme](https://github.com/user-attachments/assets/bc33c345-876c-4f22-bfbb-502669351a06)
 
-
+---
+[all data here](https://drive.google.com/drive/folders/1YlYSjEaM_SfM3NDA2bTJNH7ckavpYyOY)
 
