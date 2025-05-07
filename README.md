@@ -67,3 +67,13 @@ The project is seeded with realistic data for testing purposes:
 * Secure structure for storing user credentials and emails
 * Support for digital (e-book) flagging
 
+---
+## ERD
+![ERD](https://github.com/user-attachments/assets/57686b18-20aa-4397-b2d8-e05017373d5c)
+
+---
+## Scheme
+![Scheme](https://github.com/user-attachments/assets/bc33c345-876c-4f22-bfbb-502669351a06)
+
+
+
